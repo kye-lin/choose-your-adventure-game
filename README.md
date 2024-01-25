@@ -3,5 +3,6 @@ This is a text-based "Choose Your Adventure" game. Players are put into hypothet
 
 # How to play
 1. Download the chooseYourAdventure.py file.
-2. Run the chooseYourAdventure.py file by typing 'python3 -i chooseYourAdventure.py' in your terminal (Mac)
-3. Have fun! 
+2. In your terminal, navigate to the folder where chooseYourAdventure.py is
+3. Run the chooseYourAdventure.py file by typing 'python3 -i chooseYourAdventure.py' in your terminal (Mac)
+4. Have fun! 
